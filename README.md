@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+<img src="https://capsule-render.vercel.app/api?type=cylinder&color=auto&height=300&section=header&text=Eunji&fontSize=90&animation=blinking" />
+
 <!--
 **eunji7297/eunji7297** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
